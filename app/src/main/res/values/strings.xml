@@ -1,0 +1,4 @@
+<resources>
+    <string name="maps_sdk">AIzaSyC4j7-bhqFcA_xn5NEwM8vN3zxakme3fAk</string>
+    <string name="app_name">GoogleMapsAPI</string>
+</resources>
